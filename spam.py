@@ -36,14 +36,14 @@ def main(cnt, no):
  
 if __name__ == '__main__':
 	try:
-                os.system('clear') 
+                
 		print("""\033[1m
-   _____ __  ________
-  / ___//  |/  / ___/ | SPAM SMS INDIHOME
-  \__ \/ /|_/ /\__ \  | SPAM SMS UNLIMATED 
- ___/ / /  / /___/ /  | Coded by ./HEZAL 
-/____/_/  /_//____/   | ex: 08xxxxx77\033[0m
-	              | GUNAKAN TOOLS INI DENGAN BIJAK 
+   _____ __  ________  | SPAM SMS INDIHOME UNLIMATED 
+  / ___//  |/  / ___/  | Coded by ./HEZAL
+  \__ \/ /|_/ /\__ \   | ex: 08xxxxx45\033[0m
+ ___/ / /  / /___/ /   | GUNAKAN TOOLS INI DENGAN BIJAK 
+/____/_/  /_//____/   
+	              
     """)           
 
 		no = input("No    : ")
