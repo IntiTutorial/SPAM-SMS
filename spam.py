@@ -38,12 +38,11 @@ if __name__ == '__main__':
 	try:
                 
 		print("""\033[1m
-   _____ __  ________  | SPAM SMS INDIHOME UNLIMATED 
-  / ___//  |/  / ___/  | Coded by ./HEZAL
-  \__ \/ /|_/ /\__ \   | ex: 08xxxxx45\033[0m
- ___/ / /  / /___/ /   | GUNAKAN TOOLS INI DENGAN BIJAK 
-/____/_/  /_//____/   
-	              
+   _____ __  ________  
+  / ___//  |/  / ___/  | SPAM SMS UNLIMATED 
+  \__ \/ /|_/ /\__ \   | Coded by ./HEZAL
+ ___/ / /  / /___/ /   | ex: 08xxxxx58\033[0m
+/____/_/  /_//____/    | GUNAKAN TOOLS INI DENGAN BIJAK         
     """)           
 
 		no = input("No    : ")
