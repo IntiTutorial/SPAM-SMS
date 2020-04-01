@@ -1,4 +1,4 @@
-import requests, sys, re
+import requests, sys, re, os
 from concurrent.futures import ThreadPoolExecutor
  
  
@@ -31,6 +31,7 @@ def main(cnt, no):
 			else:
 				print("* ERROR *")
 				sys.exit()
+			
 	print("")
  
 if __name__ == '__main__':
